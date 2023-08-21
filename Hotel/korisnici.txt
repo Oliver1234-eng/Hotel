@@ -1,3 +1,4 @@
 1,pera,pera123,Pera,Peric,0628182912,pera@gmail.com,korisnik,False
 2,mika,mika123,Mika,Mikic,0618829123,mika@gmail.com,korisnik,False
 3,oliver,oliver123,Oliver,Kojic,0635182144,oliver@gmail.com,korisnik,False
+4,milan,milan123,Milan,Milanovic,0629381233,milan@gmail.com,korisnik,False
