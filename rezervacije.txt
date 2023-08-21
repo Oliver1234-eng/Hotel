@@ -1,0 +1,5 @@
+1,Air Hotel,1_2,1,8,2022,12,10,2022,19,10,2022,pera,nije zapoceta,False
+2,Ledeni Hotel,1_2,1,8,2022,1,9,2022,8,9,2022,zika,u toku,False
+3,Air Hotel,4_5,1,8,2022,22,8,2022,29,8,2022,pera,zavrsena,False
+4,Air Hotel,1_2,1,8,2022,20,10,2022,27,10,2022,pera,nije zapoceta,False
+5,Ledeni Hotel,1_2,2,8,2022,9,9,2022,16,9,2022,zika,u toku,False

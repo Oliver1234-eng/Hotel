@@ -1,0 +1,4 @@
+1,Air Hotel,5,False
+2,Ledeni Hotel,4,False
+3,Air Hotel,5,False
+4,Ledeni Hotel,4,False
